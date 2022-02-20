@@ -2,10 +2,10 @@
 
 Нейросеть, которая определяет рукописные цифры (MNIST)
 
-Для работы понадобится:
-  
-  pip install tensorflow
-  pip install matplotlib
+Для работы понадобятся библиотеки TensorFlow и MatPlotLib, остальное подтянется само или в стандартных:
+ 
+    pip install tensorflow
+    pip install matplotlib
   
 data_prepare.py - подготовка данных.
 mnist_neur.ipynb - для запуска в Colab или Jupyter.
