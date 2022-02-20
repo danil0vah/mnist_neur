@@ -7,7 +7,6 @@
   pip install tensorflow
   pip install matplotlib
   
-
 data_prepare.py - подготовка данных.
 mnist_neur.ipynb - для запуска в Colab или Jupyter.
 model_train.py - обучение модели.
